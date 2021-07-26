@@ -10,6 +10,6 @@ int main()
  printf("enter the point (x3,y3)\n");
  scanf("%f%f",&x3,&y3);
  area=(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))/2;
- printf("area of triangle is %f",area);
+ printf("area %f",area);
  return 0;
 }
