@@ -7,6 +7,6 @@ int main()
  scanf("%d",&a);
  printf("enter b value:- ");
  scanf("%d",&b);
- printf("%d",a>b?a:b);
+ printf("The large number is: %d",a>b?a:b);
 return 0;
 }
